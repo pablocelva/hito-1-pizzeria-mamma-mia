@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/hito-1-pizzeria-mamma-mia/"
+  base: "/hito-1-pizzeria-mamma-mia/",
 })
