@@ -56,6 +56,25 @@ header::before {
   justify-content: space-evenly;
 }
 
+.formulario {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  gap: 1em;
+  width: 80%;
+  margin: auto;
+  padding: 3em;
+  height: 80vh;
+}
+
+.formulario button {
+  width: 10em;
+  margin: auto;
+}
+.formulario h1 {
+  margin: auto;
+}
 
 footer {
   background-color: black;
