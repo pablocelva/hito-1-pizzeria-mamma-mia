@@ -57,7 +57,7 @@ export default function Login() {
                 {/* {error ? <p style={{color: "red"}}>Todos los campos son obligatorios.</p> : null} */}
                 {error && <p style={{color: "red"}}>{error}</p>}
                 <button type="submit" className="btn btn-info text-light">
-                Enviar
+                Ingresar
                 </button>
             </form>
         </>

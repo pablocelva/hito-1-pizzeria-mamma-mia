@@ -75,7 +75,7 @@ export default function Registro() {
                 {/* {error ? <p style={{color: "red"}}>Todos los campos son obligatorios.</p> : null} */}
                 {error && <p style={{color: "red"}}>{error}</p>}
                 <button type="submit" className="btn btn-info text-light">
-                Enviar
+                Registrar cuenta
                 </button>
             </form>
         </>
