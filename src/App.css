@@ -62,7 +62,11 @@ header::before {
   /* justify-content: center; */
   /* align-items: center; */
   gap: 1em;
+<<<<<<< HEAD
   /* width: 80%; */
+=======
+  width: 80%;
+>>>>>>> ad69b6079c7d36eecec48e8805ecd380c8d431a7
   margin: auto;
   padding: 3em;
   height: 80vh;
@@ -75,6 +79,7 @@ header::before {
 .formulario h1 {
   margin: auto;
 }
+<<<<<<< HEAD
 
 .cart {
   /* display: flex; */
@@ -103,6 +108,8 @@ header::before {
   /* height: 50px; */
   /* object-fit: cover; */
 }
+=======
+>>>>>>> ad69b6079c7d36eecec48e8805ecd380c8d431a7
 
 footer {
   background-color: black;

@@ -1,5 +1,7 @@
 # React + Vite
 
+- [Link deploy](https://pablocelva.github.io/hito-2-pizzeria-mamma-mia/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
